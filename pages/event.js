@@ -1,9 +1,9 @@
 import React,{useState , useEffect} from 'react'
 import Layout from '../components/layout'
-import Image from 'next/image'
+// import Image from 'next/image'
 import styles from '../styles/Event.module.css'
 import { Row,Col,Container } from 'react-bootstrap';
-import Upcoming from '../components/EventPage/upcoming';
+import Upcoming from '../components/EventPage/Upcoming';
 import Past from '../components/EventPage/Past';
 import Hero from '../components/common/Hero';
 import Counter from '../components/events/Counter';

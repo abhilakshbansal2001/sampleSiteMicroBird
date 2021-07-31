@@ -1,9 +1,8 @@
 import React,{useState} from 'react'
 import Layout from '../components/layout'
 import styles from '../styles/Project.module.css'
-import { Row,Col,Container,Button } from 'react-bootstrap';
-import Upcoming from '../components/EventPage/upcoming';
-import Past from '../components/EventPage/Past';
+
+
 import ProjectShowcase from '../components/ProjectPage/ProjectShowcase';
 import Hero from '../components/common/Hero';
 import { useEffect } from 'react';
